@@ -48,19 +48,19 @@ export const navBarLinks: NavBarLink[] = [
 export const socialLinks: SocialLink[] = [
   {
     title: "GitHub",
-    url: "https://github.com", // Add your GitHub URL
+    url: "https://github.com/MargiShah18/", // Add your GitHub URL
     icon: "mdi:github",
     external: true,
   },
   {
     title: "LinkedIn",
-    url: "https://linkedin.com", // Add your LinkedIn URL
+    url: "https://www.linkedin.com/in/margishah1833/", // Add your LinkedIn URL
     icon: "mdi:linkedin",
     external: true,
   },
   {
     title: "Google Scholar",
-    url: "https://scholar.google.com", // Add your Google Scholar URL
+    url: "https://scholar.google.ca/citations?user=F6hmXtUAAAAJ", // Add your Google Scholar URL
     icon: "mdi:google",
     external: true,
   },
