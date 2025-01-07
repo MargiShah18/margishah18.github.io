@@ -1,0 +1,33 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { experiencePageContent } from "../config";
+import { marked } from "marked";
+const experiences = experiencePageContent.experience;
+--- 
+
+<Layout seo={experiencePageContent.seo}>
+  <section class="mt-10 max-w-4xl mx-auto px-6">
+    <h1 class="font-bold text-3xl mb-1">Experience</h1>
+    <div class="grid grid-cols-1 gap-8 mt-8">
+      {
+        experiences.map((exp) => (
+          <div class="mb-8">
+            <div class="flex justify-between items-start mb-3">
+              <div>
+                <h3 class="text-xl font-medium">
+                  {exp.title}, {exp.company}
+                </h3>
+              </div>
+              <span class="opacity-60 text-sm">{exp.duration}</span>
+            </div>
+            <ul class="list-disc ml-4 space-y-2 opacity-80">
+              {exp.description.map((desc) => (
+                <li class="pl-2">{desc}</li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</Layout> 
