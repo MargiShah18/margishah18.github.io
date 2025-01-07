@@ -146,25 +146,25 @@ export const projectsPageContent: ProjectPageContent = {
       title: "AWS Content Moderation System",
       description:
         "Designed cloud architecture for image uploads with AI-generated tags via AWS Recognition. Developed batch-processing SQS for content moderation using AWS services.",
-      image: "/project-1.jpg", // Add relevant project image
-      year: "2023",
-      url: "#",
+      image: "/p1aws.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/AWS_Content_Moderation",
     },
     {
       title: "Job Portal Web Application",
       description:
         "Built a scalable job portal using ReactJS, NodeJS, and MongoDB, handling 500+ job postings and 3000+ user registrations in the first month.",
-      image: "/project-2.jpg", // Add relevant project image
-      year: "2023",
-      url: "#",
+      image: "/p2job.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/JobHunt_Portal",
     },
     {
       title: "Emotion-Music-Recommendation",
       description:
         "Developed an emotion recognition system using FER2013 dataset and Spotify's API to recommend music playlists based on detected facial expressions.",
-      image: "/project-3.jpg", // Add relevant project image
-      year: "2023",
-      url: "#",
+      image: "/p3emo.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/Emotion-Music-Recommendation",
     },
   ],
 };
