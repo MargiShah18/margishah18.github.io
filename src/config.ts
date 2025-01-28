@@ -166,6 +166,14 @@ export const projectsPageContent: ProjectPageContent = {
       year: "2024",
       url: "https://github.com/MargiShah18/Emotion-Music-Recommendation",
     },
+    {
+      title: "Symptoms Based Disease detection RAG Chatbot",
+      description:
+        "Developed a chatbot that detects potential diseases based on symptoms by leveraging a Retrieval-Augmented Generation (RAG) model for accurate, context-driven suggestions.",
+      image: "/p4rag.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/RAG-Chatbot",
+    },
   ],
 };
 
