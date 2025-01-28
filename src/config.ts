@@ -174,6 +174,14 @@ export const projectsPageContent: ProjectPageContent = {
       year: "2024",
       url: "https://github.com/MargiShah18/RAG-Chatbot",
     },
+    {
+      title: "Smart ATS Resume System",
+      description:
+        "Developed a Smart ATS Resume System that automates resume screening by analyzing candidate resumes against job descriptions using AI algorithms to recommend the best-fit candidates.",
+      image: "/p5ats.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/Smart_ATS_System",
+    },
   ],
 };
 
