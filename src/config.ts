@@ -182,6 +182,22 @@ export const projectsPageContent: ProjectPageContent = {
       year: "2024",
       url: "https://github.com/MargiShah18/Smart_ATS_System",
     },
+    {
+      title: "Superstore Sales Dashboard and Forecast",
+      description:
+        "Developed a Superstore Sales Dashboard and Forecasting system in Power BI that visualizes sales data and predicts future trends using historical data to support decision-making and optimize business strategies.",
+      image: "/p6dashboardsales.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/SuperStore-Dashboard-and-forecast",
+    },
+    {
+      title: "HR-Analystics-Dashboard",
+      description:
+        "Developed an HR Analytics Dashboard to help the company's HR team analyze attrition rates by gender, job role, years of service, education level, and department, providing valuable insights for retention strategies.",
+      image: "/p7dashboardhr.png",
+      year: "2024",
+      url: "https://github.com/MargiShah18/HR-Analystics-Dashboard",
+    },
   ],
 };
 
