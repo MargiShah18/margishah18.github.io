@@ -198,6 +198,14 @@ export const projectsPageContent: ProjectPageContent = {
       year: "2024",
       url: "https://github.com/MargiShah18/HR-Analystics-Dashboard",
     },
+    {
+      title: "Super Mario Bot",
+      description:
+        "Developed a self-playing Super Mario bot using reinforcement learning that autonomously learns to play the game by maximizing rewards through trial and error, improving its performance over time.",
+      image: "/p7mario.jpg",
+      year: "2024",
+      url: "https://github.com/MargiShah18/Mario_Bot",
+    },
   ],
 };
 
