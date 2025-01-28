@@ -191,7 +191,7 @@ export const projectsPageContent: ProjectPageContent = {
       url: "https://github.com/MargiShah18/SuperStore-Dashboard-and-forecast",
     },
     {
-      title: "HR-Analystics-Dashboard",
+      title: "HR Analystics Dashboard",
       description:
         "Developed an HR Analytics Dashboard to help the company's HR team analyze attrition rates by gender, job role, years of service, education level, and department, providing valuable insights for retention strategies.",
       image: "/p7dashboardhr.png",
